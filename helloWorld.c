@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Ankit god");
+    printf("I like Piza!\n");
+    printf("It's really good\n");
     return 0;
 }
