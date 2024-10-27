@@ -2,7 +2,12 @@
 
 int main(){
 
-    printf("fuckl");
+    // for loop = repeats a selection of code a limited amount of times
+
+    for(int i = 10; i >= 1; i-=2){
+        printf("%d\n", i);
+    }
+    
 
     return 0;
 }
