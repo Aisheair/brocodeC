@@ -13,7 +13,7 @@ int main()
     printf("\nEnter the number of columns: ");
     scanf("%d", &columns);
 
-    // scanf("%c"); //why am i using this?
+    scanf("%c"); //why am i using this?
 
     printf("\nEnter a symbol: ");
     scanf("%c", &symbol);
